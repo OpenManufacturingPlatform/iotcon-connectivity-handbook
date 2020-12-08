@@ -46,7 +46,11 @@ The IoT Connectivity Working Group presents a consensus view of the connectivity
 
 <br>
 
+## Members of the IoT Connectivity Group
 
+ABInbev, BMW Group, Capgemini, Cognizant, Microsoft, Red Hat, Softing
+
+Working Group Chair: Sebastian Buckel, BMW Group
 
 
 
