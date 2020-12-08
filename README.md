@@ -28,6 +28,15 @@ Connecting IoT devices and machines to the cloud is one of the first steps in di
 
 The IoT Connectivity Working Group presents a consensus view of the connectivity challenges and best practices in IIoT as the 4th industrial revolution unfolds. This paper is the initial publication laying out an approach to solving connectivity challenges while providing a roadmap for future OMP work.  
 
+### Table of Content
+
+1. Manufacturing at an Inflection Point
+2. Breadth and Depth
+3. Principles for a Successful Connectivity Solution
+4. Types of Communication
+5. Implementation
+6. Conclusion 
+
 <br>
 
 <img src="images/levels.png" width="600">
@@ -41,14 +50,7 @@ The IoT Connectivity Working Group presents a consensus view of the connectivity
 
 
 
-### Table of Content
 
-1. Manufacturing at an Inflection Point
-2. Breadth and Depth
-3. Principles for a Successful Connectivity Solution
-4. Types of Communication
-5. Implementation
-6. Conclusion 
 
 
 
