@@ -26,6 +26,8 @@ Connecting IoT devices and machines to the cloud is one of the first steps in di
 ## Insights Into Connecting Industrial IoT Assets
 ### A white paper authored by the IoT Connectivity Working Group
 
+The IoT Connectivity Working Group presents a consensus view of the connectivity challenges and best practices in IIoT as the 4th industrial revolution unfolds. This paper is the initial publication laying out an approach to solving connectivity challenges while providing a roadmap for future OMP work.  
+
 <br>
 
 <img src="images/levels.png" width="600">
