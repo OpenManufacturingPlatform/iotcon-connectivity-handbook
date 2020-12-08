@@ -21,7 +21,6 @@ Connecting IoT devices and machines to the cloud is one of the first steps in di
 - Reducing the TCO by applying standards
 - Build common implementation standards
 
-<br>
 
 ## Insights Into Connecting Industrial IoT Assets
 ### A white paper authored by the IoT Connectivity Working Group
