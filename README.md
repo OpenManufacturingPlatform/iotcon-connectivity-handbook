@@ -26,6 +26,11 @@ Connecting IoT devices and machines to the cloud is one of the first steps in di
 ## Insights Into Connecting Industrial IoT Assets
 ### A white paper authored by the IoT Connectivity Working Group
 
+<br>
+
+<img src="images/levels.png" width="600">
+
+<br>
 
 [GitHub Version](https://github.com/ChiaraK20/iot_connectivity/blob/proposal/Technical_Specification/1_Introduction/01_Manufacturing_at_an_Inflection_Point.md)
 
@@ -36,24 +41,14 @@ Connecting IoT devices and machines to the cloud is one of the first steps in di
 
 ### Table of Content
 
-
 1. Manufacturing at an Inflection Point
-
 2. Breadth and Depth
-
 3. Principles for a Successful Connectivity Solution
-
 4. Types of Communication
-
 5. Implementation
-
 6. Conclusion 
 
-<br>
 
-<img src="images/levels.png" width="700">
-
-<br>
 
 
 
