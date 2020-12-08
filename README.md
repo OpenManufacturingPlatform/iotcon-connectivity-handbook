@@ -32,11 +32,7 @@ Connecting IoT devices and machines to the cloud is one of the first steps in di
 [Download from Website]()
 
 
-<br>
 
-<img src="images/levels.png" width="700">
-
-<br>
 
 ### Table of Content
 
@@ -52,6 +48,12 @@ Connecting IoT devices and machines to the cloud is one of the first steps in di
 5. Implementation
 
 6. Conclusion 
+
+<br>
+
+<img src="images/levels.png" width="700">
+
+<br>
 
 
 
