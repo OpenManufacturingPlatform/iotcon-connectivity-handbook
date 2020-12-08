@@ -27,7 +27,7 @@ Connecting IoT devices and machines to the cloud is one of the first steps in di
 
 The IoT Connectivity Working Group presents a consensus view of the connectivity challenges and best practices in IIoT as the 4th industrial revolution unfolds. This paper is the initial publication laying out an approach to solving connectivity challenges while providing a roadmap for future OMP work. 
 
-* [GitHub Version](https://github.com/ChiaraK20/iot_connectivity/blob/proposal/Technical_Specification/1_Introduction/01_Manufacturing_at_an_Inflection_Point.md)
+* [GitHub Version](https://github.com/ChiaraK20/iot_connectivity/blob/proposal/Technical_Specification/1_Introduction/00_Introduction.md)
 * [Download from Website]()
 
 ### Table of Content
