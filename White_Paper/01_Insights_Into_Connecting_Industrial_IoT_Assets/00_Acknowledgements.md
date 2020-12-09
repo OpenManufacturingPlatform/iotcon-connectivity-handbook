@@ -14,7 +14,7 @@ Copyright OMP 2020, All rights reserved.
 3. [Principles for a Successful Connectivity Solution](03_Principles_for_a_Successful_Connectivity_Solution.md)
 4. [Types of Communication](04_Type_of_Communication.md)
 5. [Implementation](05a_Implementation_ProductionAssetLevel.md)
-6. Conclusion 
+6. [Conclusion](06_Conclusion.md)
 
 ## Working Group Chairs, and Contributors
 **ACKNOWLEDGMENTS**
