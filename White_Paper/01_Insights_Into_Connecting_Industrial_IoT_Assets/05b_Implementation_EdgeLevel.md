@@ -1,4 +1,4 @@
-[< Chapter 5.1: Implementation - Production Asset Level](https://github.com/ChiaraK20/iot_connectivity/blob/proposal/Technical_Specification/1_Introduction/05a_Implementation_ProductionAssetLevel.md)
+[< Chapter 5.1: Implementation - Production Asset Level](05a_Implementation_ProductionAssetLevel.md)
 
 ## 5 Implementation
 ### 5.2	Edge Level
@@ -23,4 +23,4 @@ The edge level is inherently extending the network to remote site locations and 
 
 While edge devices typically provide the capability to run containerized software, the software management must be checking the base images for vulnerabilities and providing update paths that ensure smooth operations.
 
-[Chapter 5.3: Implementation - Cloud Level >](https://github.com/ChiaraK20/iot_connectivity/blob/proposal/Technical_Specification/1_Introduction/05c_Implementation_CloudLevel.md)
+[Chapter 5.3: Implementation - Cloud Level >](05c_Implementation_CloudLevel.md)

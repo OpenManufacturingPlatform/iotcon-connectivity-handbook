@@ -1,4 +1,4 @@
-[< Chapter 1: Manufacturing at an Inflection Point](https://github.com/ChiaraK20/iot_connectivity/blob/proposal/Technical_Specification/1_Introduction/01_Manufacturing_at_an_Inflection_Point.md)
+[< Chapter 1: Manufacturing at an Inflection Point](01_Manufacturing_at_an_Inflection_Point.md)
 
 ## 2 Breadth and Depth
 ### 2.1 Industrial IoT Challenges
@@ -16,7 +16,7 @@ Networks are mostly customized to their precise environment and the desired func
 * The production asset level is the network level where the OT assets are located, which capture the real-world processes (e.g., robots, cameras, machines) and react to them.
 
 <figure>
-	<img src="../images/architecture.png" alt="Architecture">
+	<img src="images/architecture.png" alt="Architecture">
 	<figcaption>Figure 1: Industrial IoT architectures typically comprise out of a production asset level, edge level and cloud level.</figcaption>
 </figure>
 
@@ -44,4 +44,4 @@ Securing the different layers of a given network is a complex business. Here are
 
 Scenarios where OT assets directly communicate with the cloud (e.g., via 4G/5G over the air networks) are often restricted due to security governance rules and require additional corporate government efforts. This scenario is also a viable architectural pattern for remote production sites, especially if an industrial PC is utilized.
 
-[Chapter 3: Principles for a Successful Connectivity Solution >](https://github.com/ChiaraK20/iot_connectivity/blob/proposal/Technical_Specification/1_Introduction/03_Principles_for_a_Successful_Connectivity_Solution.md)
+[Chapter 3: Principles for a Successful Connectivity Solution >](03_Principles_for_a_Successful_Connectivity_Solution.md)

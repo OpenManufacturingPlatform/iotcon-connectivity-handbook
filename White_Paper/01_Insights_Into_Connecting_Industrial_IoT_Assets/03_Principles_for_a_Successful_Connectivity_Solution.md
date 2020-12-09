@@ -1,4 +1,4 @@
-[< Chapter 2: Breadth and Depth](https://github.com/ChiaraK20/iot_connectivity/blob/proposal/Technical_Specification/1_Introduction/02_Breadth_and_Depth.md)
+[< Chapter 2: Breadth and Depth](02_Breadth_and_Depth.md)
 
 ## 3 Principles for a Successful Connectivity Solution
 ### 3.1 Levaring the Cloud
@@ -17,7 +17,7 @@ Manufacturing professionals have been optimizing operations and processes along 
 A uniform approach to device management over the entire life cycle is required to ensure efficient administration of the many devices on the shop floor. The device lifecycle can be thought of as five discrete phases, each with its own requirements and goals.
 
 <figure>
-	<img src="../images/lifecycle.png" alt="Lifecycle">
+	<img src="images/lifecycle.png" alt="Lifecycle">
 	<figcaption>Figure 2: Typical Device Lifecycle</figcaption>
 </figure>
 
@@ -37,4 +37,4 @@ Operating the device includes collecting device telemetry, performing ongoing ma
 
 The final stage is retirement, which is typically initiated by the end of the device service life, a device failure, or an upgrade cycle. Depending on the scenario, it will end up in a replacement or termination. In case of replacement, the faulty device should be replaced as soon as possible to avoid downtimes. Therefore, the device management service needs to configure the device automatically. In the event of device termination, information must be removed from the device management service, and firewall rules must be deactivated.
 
-[Chapter 4: Type of Communication >](https://github.com/ChiaraK20/iot_connectivity/blob/proposal/Technical_Specification/1_Introduction/04_Type_of_Communication.md)
+[Chapter 4: Type of Communication >](04_Type_of_Communication.md)

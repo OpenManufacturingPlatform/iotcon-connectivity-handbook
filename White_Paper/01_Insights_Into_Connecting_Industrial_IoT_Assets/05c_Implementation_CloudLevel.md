@@ -1,4 +1,4 @@
-[< Chapter 5.2: Implementation - Edge Level](https://github.com/ChiaraK20/iot_connectivity/blob/proposal/Technical_Specification/1_Introduction/05b_Implementation_EdgeLevel.md)
+[< Chapter 5.2: Implementation - Edge Level](05b_Implementation_EdgeLevel.md)
 
 ## 5 Implementation
 ### 5.3	Cloud Level
@@ -14,4 +14,4 @@ Management data is received, sent, and stored by the Device Management Service. 
 
 From a security point of view, the cloud level provides centralized certificate management as well as identity and access control (IAC). Certificate management is essential to secure communication. The management needs to provide creation, renewal, revocation, and updated for all devices over the whole device lifecycle. The IAC is protected from unwanted modifications and can be used in combination with audit logs. As a best practice, the IAC should provide service principles to allow device management in unattended mode (e.g., to renew device certificates).
 
-[Chapter 5.4: Implementation - Interface btw. Production Asset and Edge Level >](https://github.com/ChiaraK20/iot_connectivity/blob/proposal/Technical_Specification/1_Introduction/05d_Implementation_InterfaceProdEdge.md)
+[Chapter 5.4: Implementation - Interface btw. Production Asset and Edge Level >](05d_Implementation_InterfaceProdEdge.md)

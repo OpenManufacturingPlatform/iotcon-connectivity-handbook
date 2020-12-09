@@ -1,4 +1,4 @@
-[< Chapter 5.5: Implementation - Interface btw. Edge & Cloud](https://github.com/ChiaraK20/iot_connectivity/blob/proposal/Technical_Specification/1_Introduction/05e_Implementation_InterfaceEdgeCloud.md)
+[< Chapter 5.5: Implementation - Interface btw. Edge & Cloud](05e_Implementation_InterfaceEdgeCloud.md)
 
 ## 6	Conclusion
 From simple performance reporting to AI-optimized process control, IIoT connectivity is an essential cornerstone to digitalizing any industrial solution. For this, open standards and open-source implementations are important prerequisites.
@@ -12,4 +12,4 @@ A complete technology solution includes connectivity as well as many other dimen
 
 Subsequent publications by the IoT Connectivity Working Group will build upon this publication and dive more deeply into specific use cases and different layers of the technology stack. Topics such as device provisioning, certificate management, and store-and-forward mechanism for offline situations will be explored in-depth in future publications. The joint collaboration of different manufacturing companies will accelerate the development of production-ready software products and support the manufacturing community in implementing connectivity use cases that are reliable, innovative and secure.
 
-[<< Go back to start](https://github.com/ChiaraK20/iot_connectivity/blob/proposal/Technical_Specification/1_Introduction/00_Introduction.md)
+[<< Go back to start](00_Acknowledgements.md)

@@ -1,4 +1,4 @@
-[< Chapter 5.3: Implementation - Cloud Level](https://github.com/ChiaraK20/iot_connectivity/blob/proposal/Technical_Specification/1_Introduction/05c_Implementation_CloudLevel.md)
+[< Chapter 5.3: Implementation - Cloud Level](05c_Implementation_CloudLevel.md)
 
 ## 5 Implementation
 ### 5.4	The interface between Production Asset and Edge Levels
@@ -8,4 +8,4 @@ Due to the reasons given in a previous section, an OPC UA client/server is often
 
 In many brownfield installations, both OPC UA and MQTT are not available, or it is not practical to upgrade the communication technology. In this case, adapters are needed to convert formats between proprietary protocols and promote standardization and interoperability. Adapters can be installed directly on the OT machines, and thus their presence and function are largely invisible to the rest of the system. This setup requires coordination between the asset vendor and the chosen target protocol. The adapter could also be installed on an IPC at an intermediate level between the production asset and edge layer, or it could be obtained through a marketplace and installed on the edge layer. Each setup requires different amounts of coordination with the asset manufacturer and forethought. Still, they all result in standardization and adherence to the OMP principle of interoperability beyond the edge level.
 
-[Chapter 5.5: Implementation - Interface btw. Edge & Cloud >](https://github.com/ChiaraK20/iot_connectivity/blob/proposal/Technical_Specification/1_Introduction/05e_Implementation_InterfaceEdgeCloud.md)
+[Chapter 5.5: Implementation - Interface btw. Edge & Cloud >](05e_Implementation_InterfaceEdgeCloud.md)

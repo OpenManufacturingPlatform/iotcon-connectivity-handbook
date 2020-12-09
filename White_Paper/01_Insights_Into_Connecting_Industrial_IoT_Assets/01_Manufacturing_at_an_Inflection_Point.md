@@ -1,5 +1,5 @@
 
-[< Introduction](https://github.com/ChiaraK20/iot_connectivity/blob/proposal/Technical_Specification/1_Introduction/00_Introduction.md)
+[< Introduction](00_Acknowledgements.md)
 
 # Insights Into Connecting Industrial IoT Assets
 ## A publication by the Open Manufacturing Platform
@@ -17,4 +17,4 @@ Raw data needs to be collected, aggregated across multiple data sources, consoli
 
 The Open Manufacturing Platform (OMP) was founded to harness the power of collaboration and openness, combining industry-leading companies and knowledge to solving challenges shared across the industry. Collectively innovating and working together creates practical solutions to real-world problems. Connectivity is the first working group because it is a cornerstone of unlocking additional scenarios, and this paper is the initial publication laying out an approach to solving connectivity challenges while providing a roadmap for future work.
 
-[Chapter 2: Breadth and Depth >](https://github.com/ChiaraK20/iot_connectivity/blob/proposal/Technical_Specification/1_Introduction/02_Breadth_and_Depth.md)
+[Chapter 2: Breadth and Depth >](02_Breadth_and_Depth.md)

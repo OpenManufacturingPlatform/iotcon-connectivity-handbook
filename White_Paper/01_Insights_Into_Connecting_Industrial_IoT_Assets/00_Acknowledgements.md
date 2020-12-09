@@ -33,4 +33,4 @@ Open Manufacturing Platform / IoT Connectivity Working Group
  Muth, Manfred			    (Red Hat)
  Reimann, Jens	        	(Red Hat)
 
-[Chapter 1: Manufacturing at an Inflection Point >](https://github.com/ChiaraK20/iot_connectivity/blob/proposal/Technical_Specification/1_Introduction/01_Manufacturing_at_an_Inflection_Point.md)
+[Chapter 1: Manufacturing at an Inflection Point >](01_Manufacturing_at_an_Inflection_Point.md)

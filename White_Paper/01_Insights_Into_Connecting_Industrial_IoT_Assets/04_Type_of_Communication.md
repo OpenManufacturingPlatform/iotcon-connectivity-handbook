@@ -1,4 +1,4 @@
-[< Chapter 3: Principles for a Successful Connectivity Solution](https://github.com/ChiaraK20/iot_connectivity/blob/proposal/Technical_Specification/1_Introduction/03_Principles_for_a_Successful_Connectivity_Solution.md)
+[< Chapter 3: Principles for a Successful Connectivity Solution](03_Principles_for_a_Successful_Connectivity_Solution.md)
 
 ## 4 Type of Communication
 The three different communication categories required to solve connectivity challenges are telemetry, control, and (device) management. Each one has unique properties, and the applicability of each varies according to individual solutions and level of communication within the network topography.
@@ -6,7 +6,7 @@ The three different communication categories required to solve connectivity chal
 Each communication category can occur between the production assets & edge or edge & cloud (see Figure 3). We define this as the asset-edge interface or edge-cloud interface.
 
 <figure>
-	<img src="../images/communication.png" alt="Communication">
+	<img src="images/communication.png" alt="Communication">
 	<figcaption>Figure 3: Three general communication types across three levels</figcaption>
 </figure>
 
@@ -17,4 +17,4 @@ Control data are product job information, recipe settings, or process parameters
 
 Management data can be bidirectional and helps to control devices or machines. This typically includes metadata with the purpose of ensuring the entire system is operating correctly. Machine-to-machine communication is monitored, and information is utilized to ensure smooth operation. Examples include heartbeat monitoring as well as checking communication packets and their completeness.
 
-[Chapter 5.1: Implementation - Production Asset Level >](https://github.com/ChiaraK20/iot_connectivity/blob/proposal/Technical_Specification/1_Introduction/05a_Implementation_ProductionAssetLevel.md)
+[Chapter 5.1: Implementation - Production Asset Level >](05a_Implementation_ProductionAssetLevel.md)

@@ -1,4 +1,4 @@
-[< Chapter 4: Type of Communication](https://github.com/ChiaraK20/iot_connectivity/blob/proposal/Technical_Specification/1_Introduction/04_Type_of_Communication.md)
+[< Chapter 4: Type of Communication](04_Type_of_Communication.md)
 
 ## 5 Implementation
 ### 5.1	Production Asset Level
@@ -16,4 +16,4 @@ In most circumstances, the shop floor machines are recipients of control and man
 
 Device management must keep the firmware of production assets up to date to secure the production assets, but the primary action necessary to minimize the attack vector is to use firewalls that deny access in general.
 
-[Chapter 5.2: Implementation - Edge Level >](https://github.com/ChiaraK20/iot_connectivity/blob/proposal/Technical_Specification/1_Introduction/05b_Implementation_EdgeLevel.md)
+[Chapter 5.2: Implementation - Edge Level >](05b_Implementation_EdgeLevel.md)

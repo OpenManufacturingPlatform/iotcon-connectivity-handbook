@@ -1,4 +1,4 @@
-[< Chapter 5.4: Implementation - Interface btw. Production Asset & Edge Levels](https://github.com/ChiaraK20/iot_connectivity/blob/proposal/Technical_Specification/1_Introduction/05d_Implementation_InterfaceProdEdge.md)
+[< Chapter 5.4: Implementation - Interface btw. Production Asset & Edge Levels](05d_Implementation_InterfaceProdEdge.md)
 
 ## 5 Implementation
 ### 5.5	The interface between Edge and Cloud
@@ -11,7 +11,7 @@ If control from asset level to edge level is required, it is preferable that the
 The predominant category of communication from cloud to edge is either command or managerial. Telemetry is not typically passed in this direction. The drivers of the data are the functions, logic, and intelligence applied in the cloud, which is then translated into command and management data to be passed down into the edge layer. The communication typically results in an action, either within the edge device or production assets. For example, parameters such as filters, logic, frequency, or timing could be altered based upon the learnings in the cloud.
 
 <figure>
-	<img src="../images/device-management.png" alt="Device Management">
+	<img src="images/device-management.png" alt="Device Management">
 	<figcaption>Figure 4: Cloud-based Device Management App</figcaption>
 </figure>
 
@@ -20,4 +20,4 @@ For example, as depicted in Figure 4, a device management solution provides mana
 
 The open interface receives commands from cloud applications while the propriety channel enables communication down to specific edge devices. The advantage of an open interface is that it is interoperable with any public cloud provider utilizing standard compute resources or cloud services. For the same reason, an edge container, enabling proprietary communication, should have an open interface to manage the connection settings.
 
-[Chapter 6: Conclusion >](https://github.com/ChiaraK20/iot_connectivity/blob/proposal/Technical_Specification/1_Introduction/06_Conclusion.md)
+[Chapter 6: Conclusion >](06_Conclusion.md)
