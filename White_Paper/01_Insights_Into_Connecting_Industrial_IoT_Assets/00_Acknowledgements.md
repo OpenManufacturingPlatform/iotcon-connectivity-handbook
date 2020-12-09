@@ -1,3 +1,5 @@
+[Back to README](../../README.md)
+
 # Insights Into Connecting Industrial IoT Assets
 ## A publication by the Open Manufacturing Platform
 
@@ -7,11 +9,11 @@ Copyright OMP 2020, All rights reserved.
 
 ## Table of Content
 
-1. Manufacturing at an Inflection Point
-2. Breadth and Depth
-3. Principles for a Successful Connectivity Solution
-4. Types of Communication
-5. Implementation
+1. [Manufacturing at an Inflection Point](01_Manufacturing_at_an_Inflection_Point.md)
+2. [Breadth and Depth](02_Breadth_and_Depth.md)
+3. [Principles for a Successful Connectivity Solution](03_Principles_for_a_Successful_Connectivity_Solution.md)
+4. [Types of Communication](04_Type_of_Communication.md)
+5. [Implementation](05a_Implementation_ProductionAssetLevel.md)
 6. Conclusion 
 
 ## Working Group Chairs, and Contributors
