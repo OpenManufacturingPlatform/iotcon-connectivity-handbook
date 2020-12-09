@@ -5,11 +5,16 @@ The three different communication categories required to solve connectivity chal
 
 Each communication category can occur between the production assets & edge or edge & cloud (see Figure 3). We define this as the asset-edge interface or edge-cloud interface.
 
+<br>
+<b>
+
 <figure>
 	<img src="images/communication.png" alt="Communication">
-	<figcaption>Figure 3: Three general communication types across three levels</figcaption>
+	<figcaption><br>Figure 3: Three general communication types across three levels</figcaption>
 </figure>
-
+</b>
+<br>
+<br>
 
 The most common and prolific category is telemetry, which is the sending of raw data from the shop floor into the cloud. Examples include vibration readings in the range of milliseconds, pressure readings twice per minute, and device state status every 5 minutes. The messages typically contain data (e.g., current temperature) and metadata such as device ID and a timestamp.
 
