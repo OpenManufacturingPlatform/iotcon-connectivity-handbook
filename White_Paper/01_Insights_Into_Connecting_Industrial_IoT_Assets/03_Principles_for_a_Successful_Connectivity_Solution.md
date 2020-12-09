@@ -16,11 +16,17 @@ Manufacturing professionals have been optimizing operations and processes along 
 ### 3.5	Consistent Device Management
 A uniform approach to device management over the entire life cycle is required to ensure efficient administration of the many devices on the shop floor. The device lifecycle can be thought of as five discrete phases, each with its own requirements and goals.
 
+<br>
+<b>
+
 <figure>
 	<img src="images/lifecycle.png" alt="Lifecycle">
 	<figcaption>Figure 2: Typical Device Lifecycle</figcaption>
 </figure>
+</b>
 
+<br>
+<br>
 
 The planning phase includes developing an understanding of the expected use cases that drive the device capability requirements and is critical to both the individual device level and the system or solution level. This phase also includes elements of cost estimates, procurement, inventory, and implementation planning. Cataloging the devices in both brownfield and greenfield scenarios is an essential and very company-specific task with many dependencies needing consideration (e.g., network architecture and design, existing protocols, number of connected devices). Embracing open standards and automatic device discovery can be good solutions for speeding up this process.
 
