@@ -15,11 +15,15 @@ Networks are mostly customized to their precise environment and the desired func
 * The edge level extends the cloud capabilities geographically closer to OT devices. It’s an on-premise network that possesses a path to the cloud as well as to the Sensor/Actuator level. Edge nodes that can run universal workloads are typically located at that level. These are often hosted on industrial PCs (IPC) and compute devices, virtual machines in a data center, or an on-premise Kubernetes cluster.
 * The production asset level is the network level where the OT assets are located, which capture the real-world processes (e.g., robots, cameras, machines) and react to them.
 
+<br>
+
 <b>
 <figure>
 	<img src="images/architecture.png" alt="Architecture">
 	<figcaption>Figure 1: Industrial IoT architectures typically comprise out of a production asset level, edge level and cloud level.</figcaption>
 </figure>
+</b>
+
 <br>
 
 Equipment maintenance staffs operate on the shop floor level, which is comprised of the production asset level (OT) and physical edge nodes on the edge level, e.g., IPCs.
