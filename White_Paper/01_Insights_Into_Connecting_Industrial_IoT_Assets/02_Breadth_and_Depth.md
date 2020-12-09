@@ -25,6 +25,7 @@ Networks are mostly customized to their precise environment and the desired func
 </b>
 
 <br>
+<br>
 
 Equipment maintenance staffs operate on the shop floor level, which is comprised of the production asset level (OT) and physical edge nodes on the edge level, e.g., IPCs.
 
