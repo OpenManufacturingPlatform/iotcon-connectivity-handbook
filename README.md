@@ -50,3 +50,5 @@ The IoT Connectivity Working Group presents a consensus view of the connectivity
 Anheuser-Busch InBev, BMW Group, Bosch Group, Capgemini, Cognizant, Faurecia, Forcam GmbH, Leadec-Services, Microsoft, Norcom,  Norcom, OptimalPlus, Ploetz + Zeller GmbH, PricewaterhouseCoopers GmbH WPG (PWC), Red Hat, Siemens Healthineers, Softing Industrial Automation, SupplyOn AG, VMware Inc, Wandelbots, ZF
 
 Working Group Chair: Sebastian Buckel, BMW Group
+
+#### You have feedback on our publications? Please contact us by opening a [GitHub Issue](https://github.com/OpenManufacturingPlatform/iot_connectivity_public/issues).
