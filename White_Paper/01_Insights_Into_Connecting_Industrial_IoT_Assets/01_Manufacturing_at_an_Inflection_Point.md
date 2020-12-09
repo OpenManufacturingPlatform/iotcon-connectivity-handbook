@@ -1,5 +1,5 @@
 
-[< Introduction](00_Acknowledgements.md)
+[< Acknowledgements](00_Acknowledgements.md)
 
 # Insights Into Connecting Industrial IoT Assets
 ## A publication by the Open Manufacturing Platform
