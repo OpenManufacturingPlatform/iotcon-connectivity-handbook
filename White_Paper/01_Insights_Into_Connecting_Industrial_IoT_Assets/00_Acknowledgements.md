@@ -22,15 +22,15 @@ This document is a work product of the Open Manufacturing Platform - IoT Connect
 Open Manufacturing Platform / IoT Connectivity Working Group 
 
 **CONTRIBUTORS**
- Attrey, Kapil              (Cognizant)
- Birn, Lukas                (Capgemini)
- Buckel, Sebastian 		    (BMW Group, Working Group Chair)
- Hammerstingl, Veit, Dr.	(BMW Group)
- Köpke, Alexander		    (Microsoft)
- Kramer, Michael		    (ZF)
- Krebs, Jeremy			    (Microsoft)
- McGrath, Daniel			(Cognizant)
- Muth, Manfred			    (Red Hat)
- Reimann, Jens	        	(Red Hat)
+* Attrey, Kapil              (Cognizant)
+* Birn, Lukas                (Capgemini)
+* Buckel, Sebastian 		    (BMW Group)
+* Hammerstingl, Veit, Dr.	(BMW Group)
+* Köpke, Alexander		    (Microsoft)
+* Kramer, Michael		    (ZF)
+* Krebs, Jeremy			    (Microsoft)
+* McGrath, Daniel			(Cognizant)
+* Muth, Manfred			    (Red Hat)
+* Reimann, Jens	        	(Red Hat)
 
 [Chapter 1: Manufacturing at an Inflection Point >](01_Manufacturing_at_an_Inflection_Point.md)
