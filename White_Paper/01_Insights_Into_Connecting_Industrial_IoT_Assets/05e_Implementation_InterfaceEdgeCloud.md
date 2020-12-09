@@ -10,11 +10,15 @@ If control from asset level to edge level is required, it is preferable that the
 
 The predominant category of communication from cloud to edge is either command or managerial. Telemetry is not typically passed in this direction. The drivers of the data are the functions, logic, and intelligence applied in the cloud, which is then translated into command and management data to be passed down into the edge layer. The communication typically results in an action, either within the edge device or production assets. For example, parameters such as filters, logic, frequency, or timing could be altered based upon the learnings in the cloud.
 
+<br>
+<b>
 <figure>
 	<img src="images/device-management.png" alt="Device Management">
-	<figcaption>Figure 4: Cloud-based Device Management App</figcaption>
+	<figcaption><br>Figure 4: Cloud-based Device Management App</figcaption>
 </figure>
-
+</b>
+<br>
+<br>
 
 For example, as depicted in Figure 4, a device management solution provides management capabilities for edge devices. There are three edge devices from two different vendors that require specific communication. In order to abstract the device management solution away from the proprietary devices, the cloud gateways provide an open unified interface to control the edge devices. Examples of typical commands include start, stop, update firmware, renewal of certificates, download files as a trained machine learning model, and upload files.
 
