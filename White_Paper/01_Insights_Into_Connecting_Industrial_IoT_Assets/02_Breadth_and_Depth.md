@@ -19,8 +19,8 @@ Networks are mostly customized to their precise environment and the desired func
 
 <b>
 <figure>
-	<img src="images/architecture.png" alt="Architecture">
-	<figcaption>Figure 1: Industrial IoT architectures typically comprise out of a production asset level, edge level and cloud level.</figcaption>
+	<img src="images/architecture.png" alt="Architecture" width="800">
+	<figcaption><br>Figure 1: Industrial IoT architectures typically comprise out of a production asset level, edge level and cloud level.</figcaption>
 </figure>
 </b>
 
