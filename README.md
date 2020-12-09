@@ -51,4 +51,4 @@ Anheuser-Busch InBev, BMW Group, Bosch Group, Capgemini, Cognizant, Faurecia, Fo
 
 Working Group Chair: Sebastian Buckel, BMW Group
 
-### You have feedback on our publications? Please contact us by opening a [GitHub Issue](https://github.com/OpenManufacturingPlatform/iot_connectivity_public/issues)!
+### You have feedback on our publication? Please contact us by opening a [GitHub Issue](https://github.com/OpenManufacturingPlatform/iot_connectivity_public/issues)!
