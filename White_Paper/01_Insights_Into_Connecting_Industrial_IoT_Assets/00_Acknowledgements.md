@@ -29,7 +29,7 @@ Open Manufacturing Platform / IoT Connectivity Working Group
  Köpke, Alexander		    (Microsoft)
  Kramer, Michael		    (ZF)
  Krebs, Jeremy			    (Microsoft)
- McGrath, Daniel			        (Cognizant)
+ McGrath, Daniel			(Cognizant)
  Muth, Manfred			    (Red Hat)
  Reimann, Jens	        	(Red Hat)
 
