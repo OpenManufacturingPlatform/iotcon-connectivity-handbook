@@ -40,9 +40,10 @@ The IoT Connectivity Working Group presents a consensus view of the connectivity
 6. Conclusion 
 
 <br>
-
-<img src="images/levels.png" width="600">
-
+<figure>
+  <img src="images/levels.png" width="600">
+	<figcaption><br>Figure 1: Simplified industrial IoT architecture - more details can be found in the white paper.</figcaption>
+</figure>
 <br>
 
 ## Members of the IoT Connectivity Group
