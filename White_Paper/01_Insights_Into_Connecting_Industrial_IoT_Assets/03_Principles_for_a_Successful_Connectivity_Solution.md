@@ -1,7 +1,7 @@
 [< Chapter 2: Breadth and Depth](02_Breadth_and_Depth.md)
 
 ## 3 Principles for a Successful Connectivity Solution
-### 3.1 Levaring the Cloud
+### 3.1 Leveraging the Cloud
 Compute, storage, analytics, and other cloud services are secure, feature-rich, and highly scalable from essentially anywhere in the world. In today’s globally integrated networks of factories and supply chains, these features enable OT and IT managers to build, deploy, and grow solutions quickly and at low costs. These efficiencies are coupled with the tradeoff of control or freedom. Careful architectural planning (e.g., defining a business domain model) and the application of cloud principles, such as containerization, enable a technology manager to realize the benefits while minimizing the tradeoffs.
 
 ### 3.2	Building with Open Standards
