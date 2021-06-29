@@ -7,7 +7,7 @@ In our use case, a company wants to analyze the energy data of a drive and send 
 
 On the production asset level, a PLC<sup>2</sup> is connected to the drive through a real-time ethernet bus. The PLC monitors the high-frequency energy data and is able to publish them for other systems.
 
-Since the amount of data generated is too large to be sent to the cloud without aggregation, a preprocessing must be done. This is executed on the edge level. An edge node consumes the energy data from the PLC via a modern protocol (e.g., OPC UA<sup>3</sup>).
+Since the amount of data generated is too large to be sent to the cloud without aggregation, a preprocessing must be done. This is executed on the _edge level_. An edge node consumes the energy data from the PLC via a modern protocol (e.g., OPC UA<sup>3</sup>).
 
 The edge node provides two key application features:
 
