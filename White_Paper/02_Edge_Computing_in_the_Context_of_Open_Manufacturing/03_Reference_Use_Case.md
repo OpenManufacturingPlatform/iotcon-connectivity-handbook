@@ -13,9 +13,9 @@ The edge node provides two key application features:
 
 1. _Communication_: The edge node acts as a two-way gateway. It estab- lishes a secure connection southbound to the PLC and northbound to the cloud.
 
-> (2) programmable logic controller
+> <sup>2</sup> programmable logic controller
 
-> (3) https://opcfoundation.org/
+> <sup>3</sup> https://opcfoundation.org/
 
 2. _Parameter analysis_: The edge node has a custom-defined business logic to recognize energy consumption-related anomalies of the drive. The analysis results are pushed to the communication module and sent to the cloud for visualization and further processing. The analysis logic can be a simple threshold detection or a more sophisticated machine learning model.
 

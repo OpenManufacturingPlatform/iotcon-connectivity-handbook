@@ -9,7 +9,7 @@ By moving processes down from the cloud to the edge layer at the plant site, edg
 
 Edge computing has recently attracted a lot of interest; however, there is no consensus on a standardized definition and architecture for edge computing. Therefore, this publication approaches the topic of edge computing from a manufacturing use case perspective with three different views on it: an _infrastructural_, an _application_, and an _operational_ view. Based on this approach, an edge computing framework’s core characteristics and components are identified and described. The main contribution of this paper is to outline edge computing in a manufacturing setting and start moving the sector towards a common understanding.
 
-> (1) See https://github.com/OpenManufacturingPlatform/iotcon-connectivity-handbook and 
+> <sup>1</sup> See https://github.com/OpenManufacturingPlatform/iotcon-connectivity-handbook and 
 https://open-manufacturing.org/blog/2020/12/09/industrial-iot-white-paper/
 
 [Chapter 2: Definition of Edge Computing >](02_Definition_of_Edge_Computing.md)
