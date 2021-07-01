@@ -1,4 +1,4 @@
-[< Chapter 04: Views on Edge Computing >](04_Views_on_Edge_Computing.md)
+[< Chapter 04: Views on Edge Computing](04_Views_on_Edge_Computing.md)
 
 ## 5 Outlook
 In this paper, different views were taken on the topic of edge computing in a manufacturing context. Each of the views, the infrastructural, the applicational, and the operational view, had a look at basic services and processes needed in different lifecycle phases. Looking ahead, the following topics are the main drivers for future digitized production scenarios:
@@ -14,3 +14,5 @@ _Data sovereignty_: Edge computing is a fundamental part of industrial cloud inf
 The working group will address these in an open manner. If you want to participate, please feel free to contribute to our public GitHub space<sup>4</sup>.
 
 > <sup>4</sup> See https://github.com/OpenManufacturingPlatform/iotcon-connectivity-handbook
+
+[< Acknowledgements](00_Acknowledgements.md)

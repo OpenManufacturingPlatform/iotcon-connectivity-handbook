@@ -1,4 +1,4 @@
-[< Acknowledgements >](00_Acknowledgements.md)
+[< Acknowledgements](00_Acknowledgements.md)
 
 ## 1 Introduction: The Importance of Edge Computing
 Current approaches to implement IoT solutions focus on registering, man- aging, and connecting IoT devices directly to the cloud. The main chal- lenge of these solutions has typically been the transmission of raw data from a device to the cloud where the data was processed, filtered, or aggregated to generate business value.

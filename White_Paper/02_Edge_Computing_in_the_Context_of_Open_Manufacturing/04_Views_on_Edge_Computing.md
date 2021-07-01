@@ -1,4 +1,4 @@
-[< Chapter 03: Reference Use Case >](03_Reference_Use_Case.md)
+[< Chapter 3: Reference Use Case](03_Reference_Use_Case.md)
 
 ## 4 Views on Edge Computing
 This chapter will have three different views on edge computing: an _infras-tructural_, an _application_, and an _operational view_.
@@ -112,4 +112,4 @@ The parameter is generally reflected as hierarchically organized key-value-pairs
 
 In our case, the process specialist analyzes the visualized data in the cloud dashboard and then sets new values in the Edge Node Twin to reduce the energy consumption.
 
-[Chapter 05: Outlook >](05_Outlook.md)
+[Chapter 5: Outlook >](05_Outlook.md)
