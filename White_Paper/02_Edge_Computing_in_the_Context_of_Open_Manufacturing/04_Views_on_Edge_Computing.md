@@ -74,7 +74,7 @@ Since applications in the manufacturing sector have special requirements in term
 
 As described in chapter 4.1, it is possible to host the edge node either in the plant data center or on a computing unit on the shop floor next to the production asset. From an operational point of view, both options have their own challenges.
 
-<center><img width="854" alt="image" src="https://user-images.githubusercontent.com/3258579/124182717-18a93e80-da6c-11eb-9fd0-691b935a2106.png"></center>
+<img width="854" alt="image" src="https://user-images.githubusercontent.com/3258579/124182717-18a93e80-da6c-11eb-9fd0-691b935a2106.png">
 
 An edge node also goes through the characteristic device lifecycle phases described in [OMP IOTCON 2020]<sup>1</sup>. Each lifecycle phase has specific requirements for successful execution. These requirements are generally met with additional cloud services. The predominant supporting cloud services are the Edge Node Management & Onboarding Service, the Monitoring Service, the Security Service, and the Edge Node Twin.
 
