@@ -4,11 +4,11 @@
 This chapter will have three different views on edge computing: an _infras-tructural_, an _application_, and an _operational view_.
 
 ### 4.1 Infrastructural View
-In general, an edge node consists of a compute node and a guest system.Part of the compute node is the physical hardware, operating system, andhypervisor. It allows running independent guest systems. A guest systemconsists of the container runtime as well as the containerized softwareitself.
+In general, an edge node consists of a compute node and a guest system. Part of the compute node is the physical hardware, operating system, and hypervisor. It allows running independent guest systems. A guest system consists of the container runtime as well as the containerized software itself.
 
 <img width="514" alt="image" src="https://user-images.githubusercontent.com/3258579/124178437-67ec7080-da66-11eb-951c-f71a9881189e.png">
 
-The first defining characteristic for edge nodes, from an infrastructuralperspective, is the capability to run and manage containerized software.Therefore, the edge container runtime provides lightweight virtualization,i.e., no virtual machines with their own operating systems.The second defining characteristic is the ability to connect bidirectionalthe edge node to the cloud level and production asset level. This means,that a compliant edge infrastructure needs to handle direct or indirect connectivity to the cloud, e.g., through different network layers, and must deal with temporary offline situations. It is essential to point out that cloud connectivity needs to be achieved in a secure manner. Rather than undermining the security architecture that relies on strict network separation (aka perimeter), future platforms need to be aware of the users, data, services, and devices that are each a vital part of manufacturing platforms. In general, there are two major hosting solutions for edge nodes: virtualized in the plant data center or physical as an edge device on the shop floor level. Datacenter deployments predominantly use container orchestration and have the following benefits over edge devices:
+The first defining characteristic for edge nodes, from an infrastructural perspective, is the capability to run and manage containerized software.Therefore, the edge container runtime provides lightweight virtualization,i.e., no virtual machines with their own operating systems.The second defining characteristic is the ability to connect bidirectional the edge node to the cloud level and production asset level. This means,that a compliant edge infrastructure needs to handle direct or indirect connectivity to the cloud, e.g., through different network layers, and must deal with temporary offline situations. It is essential to point out that cloud connectivity needs to be achieved in a secure manner. Rather than undermining the security architecture that relies on strict network separation (aka perimeter), future platforms need to be aware of the users, data, services, and devices that are each a vital part of manufacturing platforms. In general, there are two major hosting solutions for edge nodes: virtualized in the plant data center or physical as an edge device on the shop floor level. Datacenter deployments predominantly use container orchestration and have the following benefits over edge devices:
 
 * Higher availability
 * Better scalability
@@ -46,7 +46,7 @@ Hence, the application view needs to include multiple components with a range of
 
 * Cloud connectivity
 * Production asset connectivity
-* Components for communication within an edge node and between dis- tributed edge nodes
+* Components for communication within an edge node and between distributed edge nodes
 * Data (pre-)processing
 * Data aggregation
 * Semantic enrichment
@@ -54,18 +54,18 @@ Hence, the application view needs to include multiple components with a range of
 
 <img width="874" alt="image" src="https://user-images.githubusercontent.com/3258579/124180919-b4857b00-da69-11eb-8bfe-8edd3788a4e5.png">
 
-Basic connectivity and communication are fundamental for any edge application. The need to implement data pre-processing, aggregation and semantic enrichment functionalities typically scales with the size and com- plexity of the entire IoT solution (i.e., number and types of data sources, data volume, number of IoT applications, etc.).
+Basic connectivity and communication are fundamental for any edge application. The need to implement data pre-processing, aggregation and semantic enrichment functionalities typically scales with the size and complexity of the entire IoT solution (i.e., number and types of data sources, data volume, number of IoT applications, etc.).
 
 The following needs to be considered to give an appropriate answer to the questions listed above:
 
 * Message broker or API gateway to create loosely coupled architectures between edge applications and between edge nodes
-* Synchronous and asynchronous communication patterns,dependingon the use case
+* Synchronous and asynchronous communication patterns, dependingon the use case
 * Defined, flexible payload formats for telemetry and command data
 * Information models for semantic enrichment of the data
 * Offline scenarios and data buffering capability
 * Training of complex machine learning models where computing power is abundant (mostly cloud) and utilized at a level with sufficient access to the data flow while also taking bandwidth constraints into consideration (mostly edge)
 
-In the reference use case, the Product Asset Connector retrieves the energy data from the PLC and forwards it to a message broker. The message broker ensures the exchange of messages between the different edge ap- plications and connectors. The energy analysis component implements a custom-built business logic to recognize anomalies in the collected data. Therefore, the application receives the energy data from the message broker, performs the analyses, and publishes the result on the message broker. The cloud connector transfers the analysis results to the enterprise bus. The reference use case describes that a parameter is also changed on the PLC. The cloud connector and production asset connector transmit the new parameter from the enterprise bus to the PLC via the message broker.
+In the reference use case, the Product Asset Connector retrieves the energy data from the PLC and forwards it to a message broker. The message broker ensures the exchange of messages between the different edge applications and connectors. The energy analysis component implements a custom-built business logic to recognize anomalies in the collected data. Therefore, the application receives the energy data from the message broker, performs the analyses, and publishes the result on the message broker. The cloud connector transfers the analysis results to the enterprise bus. The reference use case describes that a parameter is also changed on the PLC. The cloud connector and production asset connector transmit the new parameter from the enterprise bus to the PLC via the message broker.
 
 <img width="506" alt="image" src="https://user-images.githubusercontent.com/3258579/124182569-df70ce80-da6b-11eb-9cd7-9a402bd754b2.png">
 
@@ -82,9 +82,9 @@ An edge node also goes through the characteristic device lifecycle phases descri
 
 In the _provision phase_, the service onboards new edge nodes. The first step is to create digital identities. The digital identity can originate from existing asset management systems. The service can also save and manage target configurations of edge nodes.
 
-The Management & Onboarding Service provides an endpoint where edge nodes initiate a connection. For this, a basic setup of the edge node must be performed. Example actions are installing the operating system, provi- sioning the agents, and providing security credentials.
+The Management & Onboarding Service provides an endpoint where edge nodes initiate a connection. For this, a basic setup of the edge node must be performed. Example actions are installing the operating system, provisioning the agents, and providing security credentials.
 
-After the initial connection is complete, the edge node offers basic selfdescribing characteristics (state). A few examples are the firmware version and node settings. The node state is compared with the target configuration from the service. If deviations occur, a state update is sent down to the edge node. State updates can be security or policy updates, changed configurations, and application versions (containers). In our reference use case, a configuration would be the thresholds to identify anomalous energy consumption patterns.
+After the initial connection is complete, the edge node offers basic self-describing characteristics (state). A few examples are the firmware version and node settings. The node state is compared with the target configuration from the service. If deviations occur, a state update is sent down to the edge node. State updates can be security or policy updates, changed configurations, and application versions (containers). In our reference use case, a configuration would be the thresholds to identify anomalous energy consumption patterns.
 
 State updates resulting in edge node downtime that interfere with production are not possible at any time. Therefore, careful consideration should be given to scheduling the updates at an appropriate time.
 
@@ -98,9 +98,9 @@ The **Cloud Monitoring Service** collects all log and metric information from ed
 
 Via the service, it is possible to create alerting mechanisms (e.g., on allocated memory) which are applied as stream analysis on the incoming data. In the _provisioning phase_, the edge node establishes a connection to the monitoring service. Afterwards, alerts, as well as logs and metrics, can be used throughout the following _configuration_ and _operations phase_. They are used to determine the system’s health and perform incident traceability.
 
-To obtain meaningful results, the log messages must have a defined format. Common components are message origin, severity, content, UTC times- tamp, and correlation id to ensure better traceability.
+To obtain meaningful results, the log messages must have a defined format. Common components are message origin, severity, content, UTC timestamp, and correlation id to ensure better traceability.
 
-The **Security Service** is responsible for managing the secure entities of the edge node and its applications. In the _provisioning phase_, the edge node connects to the cloud service the first time, and they exchange their trust entities. In a scenario of large-scale installation of physical edge nodes, a default certificate could be provided, which is valid for the first connection. After the connection to the service, it gets exchanged by the security service. For this, the service needs access to the relevant certificate au- thorities (CAs).
+The **Security Service** is responsible for managing the secure entities of the edge node and its applications. In the _provisioning phase_, the edge node connects to the cloud service the first time, and they exchange their trust entities. In a scenario of large-scale installation of physical edge nodes, a default certificate could be provided, which is valid for the first connection. After the connection to the service, it gets exchanged by the security service. For this, the service needs access to the relevant certificate authorities (CAs).
 
 A second task is policy enforcement. This is done by a comparison of a target state with the current device state. Examples are updating the host system and the application of security rules, like disabling ports.
 

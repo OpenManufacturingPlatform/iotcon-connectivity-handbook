@@ -11,7 +11,7 @@ Since the amount of data generated is too large to be sent to the cloud without 
 
 The edge node provides two key application features:
 
-1. _Communication_: The edge node acts as a two-way gateway. It estab- lishes a secure connection southbound to the PLC and northbound to the cloud.
+1. _Communication_: The edge node acts as a two-way gateway. It establishes a secure connection southbound to the PLC and northbound to the cloud.
 
 > <sup>2</sup> programmable logic controller
 
