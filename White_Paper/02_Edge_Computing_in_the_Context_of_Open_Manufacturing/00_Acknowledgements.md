@@ -10,22 +10,34 @@
 This document is a work product of the Open Manufacturing Platform – IoT Connectivity Working Group, chaired by Sebastian Buckel (BMW Group) and co-chaired by Dr. Veit Hammerstingl (BMW Group).
 ### AUTHORS
 Anhalt, Christopher, Dr.   (Softing)
+
 Buckel, Sebastian          (BMW Group)
+
 Hammerstingl, Veit, Dr.    (BMW Group)
+
 Köpke, Alexander           (Microsoft)
+
 Müller, Michael            (Capgemini)
+
 Muth, Manfred              (Red Hat)
+
 Ridl, Jethro               (Reply)
+
 Rummel, Thomas             (Softing)
+
 Weber Martins, Thiago, Dr. (SAP)
 
 ### FURTHER CONTRIBUTION BY
 Attrey, Kapil     (Cognizant)
+
 Kramer, Michael   (ZF)
+
 Krapp, Chiara     (BMW Group)
+
 Krebs, Jeremy     (Microsoft)
+
 McGrath, Daniel   (Cognizant)
-  
+
 Title Image by Possessed Photography from unsplash.com
 ## Contents
 
