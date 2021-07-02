@@ -25,6 +25,8 @@ On the _cloud level_, the aggregated data is distributed via an enterprise bus t
 
 As data accumulates in cloud storage, it is applied to train the machine learning model. New models are pushed down to the edge device at regular intervals to update the parameter analysis.
 
-![image](https://user-images.githubusercontent.com/3258579/123733518-8711b500-d850-11eb-9f4c-b4c5c407b4c4.png)
+
+<img width="946" alt="image" class="center" src="https://user-images.githubusercontent.com/3258579/124216694-a9ebd580-daab-11eb-9a62-ca7e88d4ed88.png">
+
 
 [Chapter 4: Views on Edge Computing >](04_Views_on_Edge_Computing.md)
