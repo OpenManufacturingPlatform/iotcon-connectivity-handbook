@@ -28,4 +28,4 @@ As data accumulates in cloud storage, it is applied to train the machine learnin
 
 > <sup>3</sup> https://opcfoundation.org/
 
-[Chapter 4: Views on Edge Computing >](04_Views_on_Edge_Computing.md)
+[Chapter 4: Views on Edge Computing >](04_1_Views_on_Edge_Computing.md)

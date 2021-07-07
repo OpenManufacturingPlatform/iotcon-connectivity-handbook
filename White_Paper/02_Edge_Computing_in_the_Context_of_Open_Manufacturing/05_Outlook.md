@@ -1,4 +1,4 @@
-[< Chapter 04: Views on Edge Computing](04_Views_on_Edge_Computing.md)
+[< Chapter 4.3: Operational View](04_3_Operational_View.md)
 
 ## 5 Outlook
 In this paper, different views were taken on the topic of edge computing in a manufacturing context. Each of the views, the infrastructural, the applicational, and the operational view, had a look at basic services and processes needed in different lifecycle phases. Looking ahead, the following topics are the main drivers for future digitized production scenarios:
