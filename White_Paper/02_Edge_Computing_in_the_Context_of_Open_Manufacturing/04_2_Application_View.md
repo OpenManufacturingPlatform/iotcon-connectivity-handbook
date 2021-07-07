@@ -1,4 +1,4 @@
-[< Chapter 4.1: Views on Edge Computing](04_1_Views_on_Edge_Computing.md)
+[< Chapter 4.1: Infrastructural View](04_1_Views_on_Edge_Computing.md/#4_1_Infrastructural_View)
 
 ### 4.2 Application View
 The application view describes functional components deployed on an edge node that are required to fulfill the OT and IT application requirements. The functional components come as containerized software to match architecture and infrastructure requirements as described in the requisite sections.
