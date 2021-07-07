@@ -16,8 +16,8 @@ Connecting IoT devices and machines to the cloud is a fundamental requirement fo
 - Create a community for understanding device connectivity use cases and implementations
 - Provide guidance processes for technical decisions
 - Development of common connectivity modules
-- Definition and integration of industrial ready Plug&Produce patterns for greenfields & brownfields
-- Speed up registration, provisioning and comissioning of IoT devices by providing standards
+- Definition and integration of industrial ready plug & produce patterns for greenfields & brownfields
+- Speed up registration, provisioning and commissioning of IoT devices by providing standards
 - Reducing the TCO by applying standards
 - Build common implementation standards
 
