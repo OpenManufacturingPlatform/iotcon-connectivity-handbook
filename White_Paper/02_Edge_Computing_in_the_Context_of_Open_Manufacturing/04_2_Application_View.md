@@ -1,4 +1,4 @@
-[< Chapter 4.1: Views on Edge Computing](04_1_Views_on_Edge_Computing.md)
+[< Chapter 4.1: Views on Edge Computing](04_1_views_on_edge_computing.md)
 
 ### 4.2 Application View
 The application view describes functional components deployed on an edge node that are required to fulfill the OT and IT application requirements. The functional components come as containerized software to match architecture and infrastructure requirements as described in the requisite sections.
@@ -38,4 +38,4 @@ In the reference use case, the Product Asset Connector retrieves the energy data
 
 <img width="506" alt="image" src="https://user-images.githubusercontent.com/3258579/124182569-df70ce80-da6b-11eb-9cd7-9a402bd754b2.png">
 
-[Chapter 4.3: Operational View >](04_3_Operational_View.md)
+[Chapter 4.3: Operational View >](04_3_operational_view.md)

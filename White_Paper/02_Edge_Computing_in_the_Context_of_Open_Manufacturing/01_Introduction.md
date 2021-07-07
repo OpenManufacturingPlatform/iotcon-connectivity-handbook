@@ -1,4 +1,4 @@
-[< Acknowledgements](00_Acknowledgements.md)
+[< Acknowledgements](00_acknowledgements.md)
 
 ## 1 Introduction: The Importance of Edge Computing
 Current approaches to implement IoT solutions focus on registering, managing, and connecting IoT devices directly to the cloud. The main challenge of these solutions has typically been the transmission of raw data from a device to the cloud where the data was processed, filtered, or aggregated to generate business value.
@@ -12,4 +12,4 @@ Edge computing has recently attracted a lot of interest; however, there is no co
 > <sup>1</sup> See https://github.com/OpenManufacturingPlatform/iotcon-connectivity-handbook and 
 https://open-manufacturing.org/blog/2020/12/09/industrial-iot-white-paper/
 
-[Chapter 2: Definition of Edge Computing >](02_Definition_of_Edge_Computing.md)
+[Chapter 2: Definition of Edge Computing >](02_definition_of_edge_computing.md)

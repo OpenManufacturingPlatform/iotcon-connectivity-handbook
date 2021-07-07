@@ -1,4 +1,4 @@
-[< Chapter 2: Definition of Edge Computing](02_Definition_of_Edge_Computing.md)
+[< Chapter 2: Definition of Edge Computing](02_definition_of_edge_computing.md)
 
 ## 3 Reference Use Case
 To analyze the different aspects of edge computing, we define a reference use case used in the subsequent chapters to describe different technological viewpoints.
@@ -28,4 +28,4 @@ As data accumulates in cloud storage, it is applied to train the machine learnin
 
 > <sup>3</sup> https://opcfoundation.org/
 
-[Chapter 4: Views on Edge Computing >](04_Views_on_Edge_Computing.md)
+[Chapter 4: Views on Edge Computing >](04_1_views_on_edge_computing.md)
