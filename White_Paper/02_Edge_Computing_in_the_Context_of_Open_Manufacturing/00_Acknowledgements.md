@@ -41,13 +41,13 @@ McGrath, Daniel   (Cognizant)
 Title Image by Possessed Photography from unsplash.com
 ## Contents
 
-1. [Introduction: The Importance of Edge Computing](01_introduction.md)
-2. [Definition of Edge Computing](02_definition_of_edge_computing.md)
-3. [Reference Use Case](03_reference_use_case.md)
-4. [Views on Edge Computing](04_views_on_edge_computing.md) \
-    4.1 [Infrastructural View](04_views_on_edge_computing.md/#041-infrastructural-view) \
-    4.2 [Applicaton View](04_2-application-view.md) \
-    4.3 [Operational View](04_3-operational-view.md)
-5. [Outlook](05_outlook.md)
+1. [Introduction: The Importance of Edge Computing](01_Introduction.md)
+2. [Definition of Edge Computing](02_Definition_of_Edge_Computing.md)
+3. [Reference Use Case](03_Reference_Use_Case.md)
+4. [Views on Edge Computing](04_Views_on_Edge_Computing.md) \
+    4.1 [Infrastructural View](04_Views_on_Edge_Computing.md/#041-Infrastructural-View) \
+    4.2 [Applicaton View](04_2-Application-View.md) \
+    4.3 [Operational View](04_3-Operational-View.md)
+5. [Outlook](05_Outlook.md)
 
-[Chapter 1: Introduction >](01_introduction.md)
+[Chapter 1: Introduction >](01_Introduction.md)
