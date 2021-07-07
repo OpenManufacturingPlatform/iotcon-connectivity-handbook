@@ -44,10 +44,10 @@ Title Image by Possessed Photography from unsplash.com
 1. [Introduction: The Importance of Edge Computing](01_Introduction.md)
 2. [Definition of Edge Computing](02_Definition_of_Edge_Computing.md)
 3. [Reference Use Case](03_Reference_Use_Case.md)
-4. [Views on Edge Computing](04_Views_on_Edge_Computing.md) \
-    4.1 [Infrastructural View](04_Views_on_Edge_Computing.md/#041-Infrastructural-View) \
-    4.2 [Applicaton View](04_2-Application-View.md) \
-    4.3 [Operational View](04_3-Operational-View.md)
+4. [Views on Edge Computing](04_Views_on_Edge_Computing.md)
+    4.1 [Infrastructural View](04_Views_on_Edge_Computing.md/#4_1_Infrastructural_View)
+    4.2 [Applicaton View](04_2_Application_View.md)
+    4.3 [Operational View](04_3_Operational_View.md)
 5. [Outlook](05_Outlook.md)
 
 [Chapter 1: Introduction >](01_Introduction.md)

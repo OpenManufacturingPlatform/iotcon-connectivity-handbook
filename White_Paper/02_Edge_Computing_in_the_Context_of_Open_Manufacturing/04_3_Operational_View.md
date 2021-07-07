@@ -1,4 +1,4 @@
-[< Chapter 4.2: Application View](04_2_application_view.md)
+[< Chapter 4.2: Application View](04_2_Application_View.md)
 
 ### 4.3 Operational View
 Since applications in the manufacturing sector have special requirements in terms of stability and automation, an integrated operational approach for the edge nodes is essential. This chapter focuses on the functions that are important to manage the edge node through its lifecycle.
@@ -43,4 +43,4 @@ The parameter is generally reflected as hierarchically organized key-value-pairs
 
 In our case, the process specialist analyzes the visualized data in the cloud dashboard and then sets new values in the Edge Node Twin to reduce the energy consumption.
 
-[Chapter 5: Outlook >](05_outlook.md)
+[Chapter 5: Outlook >](05_Outlook.md)

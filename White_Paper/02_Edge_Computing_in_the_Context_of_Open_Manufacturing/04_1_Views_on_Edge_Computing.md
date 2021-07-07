@@ -1,4 +1,4 @@
-[< Chapter 3: Reference Use Case](03_reference_use_case.md)
+[< Chapter 3: Reference Use Case](03_Reference_Use_Case.md)
 
 ## 4 Views on Edge Computing
 This chapter will have three different views on edge computing: an _infras-tructural_, an _application_, and an _operational view_.
@@ -31,4 +31,4 @@ As a general rule, the hosting level (_cloud, data center, device_) should be ch
 Looking at the reference use case, a defining feature that can drive the hosting decision is the large amount of data being pre-processed. If raw data from multiple drives is published on the network, this can lead to bandwidth issues. Therefore local preprocessing on the edge device is beneficial.
 On the other hand, the processing power and scalability of the solution must also be considered when an excessive amount of resources are needed for analyzing the data. This may lead to an edge node hosted in the data center and potentially require specific network requirements for throughput optimization.
 
-[Chapter 4.2: Application View >](04_2_application_view.md)
+[Chapter 4.2: Application View >](04_2_Application_View.md)
