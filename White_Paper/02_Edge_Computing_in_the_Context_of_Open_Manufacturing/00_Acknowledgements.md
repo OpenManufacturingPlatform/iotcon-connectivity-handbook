@@ -45,9 +45,9 @@ Title Image by Possessed Photography from unsplash.com
 2. [Definition of Edge Computing](02_Definition_of_Edge_Computing.md)
 3. [Reference Use Case](03_Reference_Use_Case.md)
 4. [Views on Edge Computing](04_Views_on_Edge_Computing.md) \
-    4.1 [Infrastructural View](04_Views_on_Edge_Computing.md/#4_1_Infrastructural_View) \
-    4.2 [Applicaton View](04_Views_on_Edge_Computing.md/#4_2_Applicaton_View) \
-    4.3 [Operational View](04_Views_on_Edge_Computing.md/#4_3_Operational_View)
+    4.1 [Infrastructural View](04_Views_on_Edge_Computing.md/#41-infrastructural-view) \
+    4.2 [Applicaton View](04_Views_on_Edge_Computing.md/#42-application-view) \
+    4.3 [Operational View](04_Views_on_Edge_Computing.md/#43-operational-view)
 5. [Outlook](05_Outlook.md)
 
 [Chapter 1: Introduction >](01_Introduction.md)
