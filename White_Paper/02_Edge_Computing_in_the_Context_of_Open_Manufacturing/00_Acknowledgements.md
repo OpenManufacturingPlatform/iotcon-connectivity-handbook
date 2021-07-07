@@ -47,7 +47,7 @@ Title Image by Possessed Photography from unsplash.com
 4. [Views on Edge Computing](04_Views_on_Edge_Computing.md) \
     4.1 [Infrastructural View](04_Views_on_Edge_Computing.md/#4_1_Infrastructural_View) \
     4.2 [Applicaton View](04_2_Application_View.md) \
-    4.3 [Operational View](04_3_Operational_View.md) \
+    4.3 [Operational View](04_3_Operational_View.md)
 5. [Outlook](05_Outlook.md)
 
 [Chapter 1: Introduction >](01_Introduction.md)
